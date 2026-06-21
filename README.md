@@ -6,6 +6,11 @@
 
 **[TR]** Bu çalışma, sadece kuru bir kodlama dersi arşivi değildir. Lise seviyesindeki teknoloji okuryazarlığı açığını kapatmak amacıyla tasarlanmış, akran eğitimine dayalı bir inisiyatiftir. Ezberci ve sadece "kod yazmaya" odaklı yaklaşımlardan uzaklaşarak; yazılımın felsefesini, yapay zeka etiğini, mühendislik vizyonunu ve sektör standartlarındaki iş akışlarını merkeze alır. Temel pedagojik hedef, öğrencileri teknolojinin (ve yapay zekanın) pasif birer *kullanıcısı* olmaktan çıkarıp; arka plandaki UX'i, mantığı ve problem çözme mimarisini anlayan eleştirel *yönlendiricilere* dönüştürmektir.
 
+### 🌱 The Origin Story: From Syntax to Vision (Evrim Hikayesi)
+**[EN]** This project is the evolved, second iteration of my initial peer-tutoring pilot program, *[Peer-Tutoring-Notes](https://github.com/sunbeamn/Peer-Tutoring-Notes)*. In my first attempt, I heavily focused on teaching direct syntax, OOP, and dry coding rules. However, I observed a critical pedagogical roadblock: diving straight into code confused beginners and alienated them from the core logic of computer science. Realizing this, I pivoted my entire curriculum. Tech-Sprint was born from the realization that before teaching *how* to code, we must teach *why* we code, how systems work, and the ethics surrounding them.
+
+**[TR]** Bu proje, ilk akran eğitimi pilot denemem olan *[Peer-Tutoring-Notes](https://github.com/sunbeamn/Peer-Tutoring-Notes)* reposunun evrimleşmiş ikinci versiyonudur. İlk denememde doğrudan kod yazım kurallarına (syntax) ve OOP mimarisine odaklanmıştım. Ancak pedagojik bir tıkanıklık fark ettim: Doğrudan kod ezberlemekle başlamak, yeni başlayanların kafasını karıştırıyor ve onları yazılımın temel mantığından uzaklaştırıyordu. Bu gözlemim üzerine müfredatı tamamen değiştirdim. Tech-Sprint; gençlere *nasıl* kod yazılacağını öğretmeden önce, *neden* kod yazdığımızı, sistemlerin nasıl çalıştığını ve teknolojinin etiğini öğretmek gerektiği farkındalığıyla doğdu.
+
 ---
 
 ## 🗺️ 4-Week Syllabus Overview / 4 Haftalık Müfredat Akışı
