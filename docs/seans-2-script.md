@@ -42,9 +42,11 @@ değil.
 Muhtemelen aranızdaki birçok kişi bu gruba giriyor.
 Önümüzdeki yıllarda:
 * TÜBİTAK 2204-A
-* TÜBİTAK 2204-B
+* TÜBİTAK 2204-C
+* TÜBİTAK 2204-D
 * 4006 Bilim Fuarları
 * TEKNOFEST
+* TÜBİTAK gibi prestijli kurumların düzenlediği başka yarışmalar
 gibi yarışmalara katılmak isteyeceksiniz.
 Burada çok önemli bir şeyi bilmeniz gerekiyor.
 TÜBİTAK sizden dünyayı değiştirecek dev bir uygulama beklemiyor.

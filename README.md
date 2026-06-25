@@ -13,22 +13,22 @@
 
 ---
 
-## 🗺️ 4-Week Syllabus Overview / 4 Haftalık Müfredat Akışı
+## 🗺️ Syllabus Overview / Müfredat Akışı
 
-### 🔹 Week 1: Introduction to the Digital World & Python Philosophy
+### 🔹 Lesson 1: Introduction to the Digital World & Python Philosophy
 * **Topics:** What is the digital world? (UX, Psychology, Engineering behind a simple Google Search). The risks and opportunities of Artificial Intelligence (Vibe Coding vs. Engineering). Why Python is recommended as a first language (The "Zen of Python"). Python's usage areas and its role in scientific research (e.g., TÜBİTAK projects).
 * **TR:** Dijital dünya nedir? Yapay zekanın fırsatları ve riskleri (Mülakat etik vaka analizi). Neden ilk dil Python? Python ile neler yapılabilir ve TÜBİTAK projelerinde programlamanın yeri.
 * 📖 **[Read Full Session 1 Lecture Script Here](docs/seans-1-script.md)**
 
-### 🔹 Week 2: Beyond the Basics: What's Next?
+### 🔹 Lesson 2: Beyond the Basics: What's Next?
 * **Topics:** Career paths and specializations after learning fundamental programming. The logic of project development. Strategies for skill-building tailored for scientific research (TÜBİTAK). A macroscopic overview of software engineering careers.
 * **TR:** Programlama temellerini öğrenince hangi alanlara yönelebilirim? Proje geliştirme mantığı, TÜBİTAK projeleri için beceri geliştirme yolları ve yazılım kariyerlerine genel bakış.
 
-### 🔹 Week 3: Essential Tools & Core Terminology
+### 🔹 Lesson 3: Essential Tools & Core Terminology
 * **Topics:** Introduction to Development Environments (VS Code vs. PyCharm). What is GitHub and why is Version Control crucial? Deconstructing terminology: IDE, code editor, terminal, library, module, and parameter. Anatomy of common debugging processes and error types.
 * **TR:** VS Code ve PyCharm gibi geliştirme ortamları (IDE). GitHub nedir ve neden kullanılır? Terminal, kütüphane, modül ve parametre gibi temel kavramların anatomisi. Yazılım geliştirirken karşılaşılan yaygın hata türleri ve hata ayıklama (debugging) kültürü.
 
-### 🔹 Week 4: Ecosystem, AI Prompting & Future Roadmaps
+### 🔹 Lesson 4: Ecosystem, AI Prompting & Future Roadmaps
 * **Topics:** Curated resources and courses for beginners. How to effectively utilize AI in the learning process (Prompt Engineering and asking the right questions). Common pitfalls for beginners and final pedagogical advice to sustain self-directed learning.
 * **TR:** Başlangıç için önerilen kurslar ve eğitim kaynakları. Öğrenme sürecinde yapay zekayı bir "öğretmen" gibi kullanma yöntemleri (Doğru prompt yazma sanatı). Yeni başlayanlar için tavsiyeler, sık yapılan hatalar ve bireysel yol haritası oluşturma.
 
@@ -62,3 +62,13 @@ Academic integrity is fully respected. The pedagogical approach and theoretical 
 
 * **Gemini (Google AI) Contribution:** This curriculum's structural design, visionary shift from rote-coding to tech-literacy, bilingual documentation mapping, and open-source licensing architecture were co-developed and polished with the assistance of Gemini.
 * **Katkı:** Bu müfredatın ezberci kodlamadan teknoloji okuryazarlığı vizyonuna geçiş süreci, yapısal tasarımı, çift dilli dokümantasyon haritalaması ve lisanslama mimarisi Gemini desteğiyle birlikte geliştirilmiş ve düzenlenmiştir.
+
+## 📊 Project Status: Archived (Post-Mortem)
+
+**Project Update (June 2026):** The Tech-Sprint peer-mentorship program has been officially suspended and archived. While the technical infrastructure, automated Git workflows, and a 4-week Python/Data Science curriculum were successfully designed and deployed, the organizational structure faced challenges regarding remote synchronization and participant commitment metrics.
+
+### 🔑 Key Takeaways & Leadership Insights:
+1. **Distribution Channel Analysis:** Online peer-mentorship possesses a high friction rate regarding engagement. Future iterations of technology orientation programs will pivot entirely to a face-to-face, selective cohort model.
+2. **Opportunity Cost Evaluation:** Operating a community-driven project requires a high volume of operational management. The project was halted to reallocate resources toward individual core technical research (e.g., machine learning and embedded systems).
+3. **Infrastructure Success:** The technical codebase, directory architecture, and asset pipeline developed during this period remain valid and fully functional as an architectural template for educational repositories.
+
