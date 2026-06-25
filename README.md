@@ -61,7 +61,9 @@ Academic integrity is fully respected. The pedagogical approach and theoretical 
 ## 🤖 AI Co-Pilot & Documentation Support
 
 * **Gemini (Google AI) Contribution:** This curriculum's structural design, visionary shift from rote-coding to tech-literacy, bilingual documentation mapping, and open-source licensing architecture were co-developed and polished with the assistance of Gemini.
-* **Katkı:** Bu müfredatın ezberci kodlamadan teknoloji okuryazarlığı vizyonuna geçiş süreci, yapısal tasarımı, çift dilli dokümantasyon haritalaması ve lisanslama mimarisi Gemini desteğiyle birlikte geliştirilmiş ve düzenlenmiştir.
+* **Claude & ChatGPT Contribution:** Assisted in technical detail verification, editorial script refinement for session materials, and structuring the final project post-mortem analysis.
+* **Katkı (Gemini):** Bu müfredatın ezberci kodlamadan teknoloji okuryazarlığı vizyonuna geçiş süreci, yapısal tasarımı, çift dilli dokümantasyon haritalaması ve lisanslama mimarisi Gemini desteğiyle birlikte geliştirilmiş ve düzenlenmiştir.
+* **Katkı (Claude & ChatGPT):** Seans dökümanlarının editoryal olarak düzenlenmesi, teknik detayların doğrulanması ve proje sonu (post-mortem) vaka analizinin yapılandırılması süreçlerinde teknik destek sağlamışlardır.
 
 ## 📊 Project Status: Archived (Post-Mortem)
 
