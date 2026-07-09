@@ -1,76 +1,205 @@
-# 🚀 Tech-Sprint: Vision-Oriented Tech Literacy & Peer Tutoring
+# 🚀 Tech-Sprint
 
-## 📌 About the Project / Proje Hakkında
-
-**[EN]** This repository is not merely a collection of coding tutorials. It is a peer-tutoring initiative designed to bridge the technology literacy gap among high school students. Moving away from rote memorization and "syntax-first" approaches, Tech-Sprint focuses on the philosophy of software, AI ethics, engineering mindset, and industry-standard workflows. The core pedagogical goal is to transform students from mere *users* of technology (and AI) into critical *directors* who understand the underlying UX, logic, and problem-solving architectures.
-
-**[TR]** Bu çalışma, sadece kuru bir kodlama dersi arşivi değildir. Lise seviyesindeki teknoloji okuryazarlığı açığını kapatmak amacıyla tasarlanmış, akran eğitimine dayalı bir inisiyatiftir. Ezberci ve sadece "kod yazmaya" odaklı yaklaşımlardan uzaklaşarak; yazılımın felsefesini, yapay zeka etiğini, mühendislik vizyonunu ve sektör standartlarındaki iş akışlarını merkeze alır. Temel pedagojik hedef, öğrencileri teknolojinin (ve yapay zekanın) pasif birer *kullanıcısı* olmaktan çıkarıp; arka plandaki UX'i, mantığı ve problem çözme mimarisini anlayan eleştirel *yönlendiricilere* dönüştürmektir.
-
-### 🌱 The Origin Story: From Syntax to Vision (Evrim Hikayesi)
-**[EN]** This project is the evolved, second iteration of my initial peer-tutoring pilot program, *[Peer-Tutoring-Notes](https://github.com/sunbeamn/Peer-Tutoring-Notes)*. In my first attempt, I heavily focused on teaching direct syntax, OOP, and dry coding rules. However, I observed a critical pedagogical roadblock: diving straight into code confused beginners and alienated them from the core logic of computer science. Realizing this, I pivoted my entire curriculum. Tech-Sprint was born from the realization that before teaching *how* to code, we must teach *why* we code, how systems work, and the ethics surrounding them.
-
-**[TR]** Bu proje, ilk akran eğitimi pilot denemem olan *[Peer-Tutoring-Notes](https://github.com/sunbeamn/Peer-Tutoring-Notes)* reposunun evrimleşmiş ikinci versiyonudur. İlk denememde doğrudan kod yazım kurallarına (syntax) ve OOP mimarisine odaklanmıştım. Ancak pedagojik bir tıkanıklık fark ettim: Doğrudan kod ezberlemekle başlamak, yeni başlayanların kafasını karıştırıyor ve onları yazılımın temel mantığından uzaklaştırıyordu. Bu gözlemim üzerine müfredatı tamamen değiştirdim. Tech-Sprint; gençlere *nasıl* kod yazılacağını öğretmeden önce, *neden* kod yazdığımızı, sistemlerin nasıl çalıştığını ve teknolojinin etiğini öğretmek gerektiği farkındalığıyla doğdu.
+### A Peer-Led Technology Literacy & Python Orientation Program for High School Students
 
 ---
 
-## 🗺️ Syllabus Overview / Müfredat Akışı
+## 📌 About
 
-### 🔹 Lesson 1: Introduction to the Digital World & Python Philosophy
-* **Topics:** What is the digital world? (UX, Psychology, Engineering behind a simple Google Search). The risks and opportunities of Artificial Intelligence (Vibe Coding vs. Engineering). Why Python is recommended as a first language (The "Zen of Python"). Python's usage areas and its role in scientific research (e.g., TÜBİTAK projects).
-* **TR:** Dijital dünya nedir? Yapay zekanın fırsatları ve riskleri (Mülakat etik vaka analizi). Neden ilk dil Python? Python ile neler yapılabilir ve TÜBİTAK projelerinde programlamanın yeri.
-* 📖 **[Read Full Session 1 Lecture Script Here](docs/seans-1-script.md)**
+Technology is no longer a field reserved for software engineers. Whether someone plans to become a scientist, physician, psychologist, educator, or software developer, understanding how digital systems work has become an essential form of modern literacy.
 
-### 🔹 Lesson 2: Beyond the Basics: What's Next?
-* **Topics:** Career paths and specializations after learning fundamental programming. The logic of project development. Strategies for skill-building tailored for scientific research (TÜBİTAK). A macroscopic overview of software engineering careers.
-* **TR:** Programlama temellerini öğrenince hangi alanlara yönelebilirim? Proje geliştirme mantığı, TÜBİTAK projeleri için beceri geliştirme yolları ve yazılım kariyerlerine genel bakış.
+**Tech-Sprint** is a peer-led educational initiative designed to introduce high school students to the foundations of the digital world through programming, scientific thinking, and modern software development practices.
 
-### 🔹 Lesson 3: Essential Tools & Core Terminology
-* **Topics:** Introduction to Development Environments (VS Code vs. PyCharm). What is GitHub and why is Version Control crucial? Deconstructing terminology: IDE, code editor, terminal, library, module, and parameter. Anatomy of common debugging processes and error types.
-* **TR:** VS Code ve PyCharm gibi geliştirme ortamları (IDE). GitHub nedir ve neden kullanılır? Terminal, kütüphane, modül ve parametre gibi temel kavramların anatomisi. Yazılım geliştirirken karşılaşılan yaygın hata türleri ve hata ayıklama (debugging) kültürü.
+Rather than beginning with syntax memorization, the curriculum starts by answering broader questions:
 
-### 🔹 Lesson 4: Ecosystem, AI Prompting & Future Roadmaps
-* **Topics:** Curated resources and courses for beginners. How to effectively utilize AI in the learning process (Prompt Engineering and asking the right questions). Common pitfalls for beginners and final pedagogical advice to sustain self-directed learning.
-* **TR:** Başlangıç için önerilen kurslar ve eğitim kaynakları. Öğrenme sürecinde yapay zekayı bir "öğretmen" gibi kullanma yöntemleri (Doğru prompt yazma sanatı). Yeni başlayanlar için tavsiyeler, sık yapılan hatalar ve bireysel yol haritası oluşturma.
+* What happens behind a Google search?
+* Why do programming languages exist?
+* Why is Python recommended for beginners?
+* What role does artificial intelligence play in software development?
+* How do engineers think about problems?
+* Which tools do professional developers use every day?
+
+The objective is not to turn every participant into a software engineer, but to help students understand technology well enough to make informed decisions about their own academic and professional journeys.
 
 ---
 
-## 📚 References & Attributions / Yararlanılan Kaynaklar
+# 🌱 Why This Project Exists
 
-Academic integrity is fully respected. The pedagogical approach and theoretical foundations of this curriculum synthesize methodologies from the following premier sources:
-*Akademik dürüstlük ilkeleri gereği, bu müfredatın pedagojik yaklaşımı ve teorik altyapısı aşağıdaki değerli kaynaklardan sentezlenmiştir:*
+Tech-Sprint is the second iteration of my original peer-education project, **Peer-Tutoring-Notes**.
 
-* **Atıl Samancıoğlu:** (Udemy - 100 Days of Code / GitHub - PythonBootcamp)  
-  *Contribution:* Open-source culture integration, core Python application examples, and real-world software mechanics.
-* **Erol Mesutgün:** 
-  *Contribution:* Structural inspiration, foundational software perspectives, and methodological guidance in teaching technology concepts.
+The first version focused heavily on Python syntax, object-oriented programming, and coding exercises. During that experience, I realized that introducing programming through syntax alone often confused beginners before they understood *why* programming exists in the first place.
 
----
+This observation completely reshaped the curriculum.
 
-## ⚖️ License & Attribution / Lisans ve Atıf Kuralları
+Instead of teaching students how to write code immediately, Tech-Sprint first introduces the digital ecosystem surrounding software:
 
-**[EN]** All curriculum flows, documentation, and original lecture scripts in this repository are published under the **MIT License**. You are free to use, copy, modify, or share these materials in your own educational sessions. However, in accordance with academic integrity and open-source culture, giving appropriate credit is mandatory:
-* **For GitHub:** A functional link pointing back to this repository (`https://github.com/sunbeamn/Tech-Sprint`) must be included.
-* **For Presentations:** A visible notice stating *"This content is adapted from Gülce Candemir’s 'Tech-Sprint' project"* must be placed on the materials.
+* user experience (UX)
+* engineering thinking
+* scientific research
+* artificial intelligence
+* developer workflows
+* problem-solving strategies
 
-**[TR]** Bu projedeki tüm müfredat akışı ve özgün ders metinleri **MIT Lisansı** altında açık kaynak olarak sunulmaktadır. Bu materyalleri özgürce kullanabilirsiniz. Ancak açık kaynak kültürü gereği:
-* **GitHub'da:** Bu deponun linki (`https://github.com/sunbeamn/Tech-Sprint`) aktif bağlantı olarak eklenmelidir.
-* **Sunumlarda:** *"Bu içerik, Gülce Candemir’in 'Tech-Sprint' projesinden referans alınmıştır"* ibaresi yer almalıdır.
+Only after building this perspective does programming become meaningful.
 
 ---
 
-## 🤖 AI Co-Pilot & Documentation Support
+# 🎯 Learning Philosophy
 
-* **Gemini (Google AI) Contribution:** This curriculum's structural design, visionary shift from rote-coding to tech-literacy, bilingual documentation mapping, and open-source licensing architecture were co-developed and polished with the assistance of Gemini.
-* **Claude & ChatGPT Contribution:** Assisted in technical detail verification, editorial script refinement for session materials, and structuring the final project post-mortem analysis.
-* **Katkı (Gemini):** Bu müfredatın ezberci kodlamadan teknoloji okuryazarlığı vizyonuna geçiş süreci, yapısal tasarımı, çift dilli dokümantasyon haritalaması ve lisanslama mimarisi Gemini desteğiyle birlikte geliştirilmiş ve düzenlenmiştir.
-* **Katkı (Claude & ChatGPT):** Seans dökümanlarının editoryal olarak düzenlenmesi, teknik detayların doğrulanması ve proje sonu (post-mortem) vaka analizinin yapılandırılması süreçlerinde teknik destek sağlamışlardır.
+The curriculum is built around one central idea:
 
-## 📊 Project Status: Archived (Post-Mortem)
+> Programming is a tool for solving problems—not the final goal.
 
-**Project Update (June 2026):** The Tech-Sprint peer-mentorship program has been officially suspended and archived. While the technical infrastructure, automated Git workflows, and a 4-week Python/Data Science curriculum were successfully designed and deployed, the organizational structure faced challenges regarding remote synchronization and participant commitment metrics.
+Throughout the sessions, students are encouraged to:
 
-### 🔑 Key Takeaways & Leadership Insights:
-1. **Distribution Channel Analysis:** Online peer-mentorship possesses a high friction rate regarding engagement. Future iterations of technology orientation programs will pivot entirely to a face-to-face, selective cohort model.
-2. **Opportunity Cost Evaluation:** Operating a community-driven project requires a high volume of operational management. The project was halted to reallocate resources toward individual core technical research (e.g., machine learning and embedded systems).
-3. **Infrastructure Success:** The technical codebase, directory architecture, and asset pipeline developed during this period remain valid and fully functional as an architectural template for educational repositories.
+* understand the reasoning behind technologies instead of memorizing syntax;
+* recognize software as one discipline within a much larger technological ecosystem;
+* view artificial intelligence as a collaborative tool rather than a replacement for human thinking;
+* develop analytical thinking and scientific curiosity;
+* discover how programming supports research, engineering, and interdisciplinary projects.
 
+---
+
+# 🗺️ Course Roadmap
+
+## 🔹 Session 1 — Understanding the Digital World & Python
+
+Topics include:
+
+* What happens behind a Google Search?
+* UX, engineering, and system design
+* Why multiple programming languages exist
+* Why Python is widely recommended for beginners
+* Python's role in AI, automation, web development, and scientific research
+* The emergence of AI-assisted programming (Vibe Coding)
+* Why problem-solving remains valuable in the age of AI
+* Introduction to *The Zen of Python*
+
+* 📖 **[Read Full Session 1 Lecture Script Here](docs/session-1-script.md)**
+
+---
+
+## 🔹 Session 2 — Choosing Your Direction
+
+Topics include:
+
+* Technology beyond software engineering
+* Different ways technology supports various careers
+* Scientific research workflows
+* Python in TÜBİTAK and student research projects
+* Data analysis and statistical thinking
+* Common misconceptions about science competitions
+* AI's impact on future careers
+* Building long-term learning goals
+
+* 📖 **[Read Full Session 2 Lecture Script Here](docs/session-2-script.md)**
+
+
+---
+
+## 🔹 Session 3 *(Prepared)* — A Developer's Toolbox
+
+Although this session was prepared, it was not delivered due to participant availability.
+
+Topics include:
+
+* VS Code vs. PyCharm
+* What an IDE actually is
+* Anaconda and Jupyter Notebook
+* Terminal fundamentals
+* Git & GitHub
+* Version control and commit culture
+* Collaboration in software projects
+* The modern software development ecosystem
+
+* 📖 **[Read Full Session 3 Lecture Script Here](docs/session-3-script.md)**
+
+---
+
+# 👥 Who Is This For?
+
+This project is intended for:
+
+* high school students curious about technology;
+* students preparing scientific research projects (e.g. TÜBİTAK);
+* beginners considering software development as a future career;
+* educators interested in technology-oriented peer education;
+* anyone seeking a conceptual introduction before diving into programming.
+
+No prior programming experience is required.
+
+* **Note**: _The lecture scripts are_ currently available _only in Turkish_, as the peer-tutoring sessions were originally delivered to Turkish high school students.
+
+---
+
+# 📚 References
+
+The educational approach presented in this repository was developed by synthesizing ideas from multiple educational resources and personal teaching experience.
+
+Major sources of inspiration include:
+
+* **Atıl Samancıoğlu**
+
+  * Python fundamentals
+  * GitHub workflow
+  * software development practices
+
+* **Erol Mesutgün**
+
+  * software engineering perspectives
+  * educational methodology
+  * technology-oriented teaching philosophy
+
+Additional references include official Python documentation, open-source communities, and educational materials related to software engineering, scientific computing, and technology literacy.
+
+---
+
+# 🤖 AI Assistance
+
+Artificial intelligence tools were used throughout the preparation of this repository as documentation and editorial assistants.
+
+Their contributions included:
+
+* improving documentation structure;
+* refining lecture scripts;
+* proofreading English and Turkish content;
+* reviewing technical explanations;
+* assisting with repository organization.
+
+All educational decisions, curriculum design, instructional flow, examples, and final content selection remain the responsibility of the project author.
+
+---
+
+# 📄 License
+
+This repository is released under the **MIT License**.
+
+You are welcome to use, modify, and adapt the materials for educational purposes.
+
+If you build upon this work, appropriate attribution is appreciated.
+
+For GitHub repositories, linking back to this repository is recommended.
+
+---
+
+# 📊 Project Status
+
+**Status:** Archived
+
+The peer-tutoring program has been concluded and is preserved as an open educational resource.
+
+Although the instructional sessions ended, the repository remains available as a reference for future peer education initiatives and technology orientation programs.
+
+---
+
+## 👤 Author
+
+**Gülce Candemir**
+
+High school student interested in:
+
+* Computer Science
+* Machine Learning
+* Embedded Systems
+* Scientific Research
+* Technology Education
