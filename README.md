@@ -170,15 +170,13 @@ All educational decisions, curriculum design, instructional flow, examples, and 
 
 ---
 
-# 📄 License
+## 📄 License
 
-This repository is released under the **MIT License**.
+This work is licensed under the Creative Commons Attribution 4.0 International (CC BY 4.0) License.
 
-You are welcome to use, modify, and adapt the materials for educational purposes.
+You are free to share and adapt the material for any purpose, provided that appropriate credit is given to the original author.
 
-If you build upon this work, appropriate attribution is appreciated.
-
-For GitHub repositories, linking back to this repository is recommended.
+See the [LICENSE](LICENSE) file for the full license text.
 
 ---
 
